@@ -2,7 +2,7 @@ Facial Expression Detection 🎭
 Real-time facial emotion recognition using OpenCV and TensorFlow. This project detects emotions like Happy, Sad, Angry, Neutral, and Calm directly via webcam. Perfect for sentiment analysis, interactive apps, or AI demos.
 
 🌐 Available Translations
-<div align="center"> <kbd>[<img title="हिंदी" alt="Hindi" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">](translation/README.Hindi.md)</kbd> &nbsp; <kbd>[<img title="日本語" alt="Japanese" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22">](translation/README.Japanese.md)</kbd> </div>
+(translation/README.Hindi.md)</kbd> &nbsp; <kbd>[<img title="日本語" alt="Japanese" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22">](translation/README.Japanese.md)</kbd> </div>
 📖 Overview
 This project demonstrates real-time facial expression recognition using:
 
